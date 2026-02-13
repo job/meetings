@@ -29,3 +29,9 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Speaker: Sitong Ling
 - Desired Duration: 10 minutes including Q&A
 - Datatracker Link: https://datatracker.ietf.org/doc/draft-ling-sidrops-rov-tag-profile/
+
+#### Perspective on current RTR ecosystem
+- Speaker: Job Snijders
+- Duration: 7 minutes
+- Abstract: Praise and encouragement for the many RTR v2 implementation projects that are underway
+- Datatracker: N/A - presentation to support coordination around preparing for rfc8210bis WGLC
