@@ -28,3 +28,9 @@ Create a Pull Request appending, at the end of this very file, the request using
 - Expected outcome: community feedback / call for WG adoption
 - Abstract: Discussion on the concept of using mixed signing algorithm certificate chains in the RPKI. Permitting a second (widely supported) signing algorithm in the RPKI allows for smaller signatures in the short term and gaining operational experience towards PQ transitions in the long term.   
 - Datatracker link: To be posted
+
+#### RPKIViews project update
+- Speaker: Job Snijders
+- Desired duration: 10 minutes
+- Expected outcome: community feedback
+- Abstract: RPKIViews' open data archives play a vital role towards understanding the dynamics of the global RPKI. In this talk I'd like to share an update on the state of the project and announce a new (free) service for protocol designers, researchers, and other interested parties.
